@@ -1,6 +1,6 @@
 ### ECS Takehome
 
-This takehome assignment will be comprised of two parts: back-end and front-end. This is meant to test your basic proficiency with basic javascript along with some popular frameworks. This should take 1-2 hours. These two pieces are independent of each other so feel free to do them in whichever order.
+This take-home assignment will be comprised of two parts: back-end and front-end. This is meant to test your proficiency with basic Javascript along with some popular frameworks. This test should take 1-2 hours. These two pieces are independent of each other, so you are able to do them either order.
 
 #### Getting started
 Once you have the code on your machine, all you will have to do is `npm ci` and then do an `npm start` for the back end portion. For the front end portion, just make sure to put all of your code into the `client/` folder.
@@ -12,7 +12,7 @@ Here you will be tested on your proficiency working on a server with the [Hapi f
 The api should:
 - allow someone to create a user
 - allow someone to get a user by id
-- allow someone to update a user by
+- allow someone to update a user by id
 - allow someone to delete a user by id
 - validate user inputs for all of the above
 
@@ -32,4 +32,4 @@ Notes:
 - Do not feel the need to integrate this page whatsoever with the server (that would probably be too time consuming). Use a scaffolding tool if you feel that it would help you complete this in a more reasonable timeframe.
 
 #### On Complete
-Upload your code to github and add bkapus2 and lydia-p as collaborators. 
+Upload your code to github and add bkapus2 and EnterprisePeakAdmin as collaborators. 
