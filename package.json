@@ -1,0 +1,29 @@
+{
+  "name": "epeak-takehome",
+  "version": "1.0.0",
+  "description": "epeak-takehome",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --watch server/ --exec \"node -r esm server/index\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enterprisepeak/EPeak-Takehome.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enterprisepeak/EPeak-Takehome/issues"
+  },
+  "homepage": "https://github.com/enterprisepeak/EPeak-Takehome#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "esm": "^3.2.25",
+    "glue": "^6.0.0",
+    "hapi": "^18.1.0",
+    "joi": "^14.3.1",
+    "lodash": "^4.17.15",
+    "nodemon": "^1.19.2"
+  }
+}
